@@ -1,0 +1,13 @@
+.container1{
+    display: flex;
+    margin-bottom: 20px;
+}
+.column_left{
+    width: 50%;
+    
+
+}
+.column_rigth{
+    width: 50%;
+    
+}
